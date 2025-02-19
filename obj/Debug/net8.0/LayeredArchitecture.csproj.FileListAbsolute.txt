@@ -1,0 +1,83 @@
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\appsettings.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.staticwebassets.endpoints.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.exe
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.deps.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.runtimeconfig.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.pdb
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Snappier.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.csproj.AssemblyReference.cache
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.AssemblyInfoInputs.cache
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.AssemblyInfo.cs
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\scopedcss\bundle\LayeredArchitecture.styles.css
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.build.LayeredArchitecture.props
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LayeredArchitecture.props
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LayeredArchitecture.props
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredA.45DE14D4.Up2Date
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\refint\LayeredArchitecture.dll
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.pdb
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.genruntimeconfig.cache
+C:\Users\ungqu\OneDrive - ueh.edu.vn\Documents\SOA\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\ref\LayeredArchitecture.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\appsettings.Development.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\appsettings.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.staticwebassets.endpoints.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.exe
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.deps.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.runtimeconfig.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\LayeredArchitecture.pdb
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\DnsClient.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\SharpCompress.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Snappier.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\bin\Debug\net8.0\ZstdSharp.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.csproj.AssemblyReference.cache
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.AssemblyInfoInputs.cache
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.AssemblyInfo.cs
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.csproj.CoreCompileInputs.cache
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cs
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.MvcApplicationPartsAssemblyInfo.cache
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\scopedcss\bundle\LayeredArchitecture.styles.css
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.build.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.development.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.LayeredArchitecture.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.build.LayeredArchitecture.props
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LayeredArchitecture.props
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LayeredArchitecture.props
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredA.45DE14D4.Up2Date
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\refint\LayeredArchitecture.dll
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.pdb
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\LayeredArchitecture.genruntimeconfig.cache
+D:\LayeredArchitecture\LayeredArchitecture\LayeredArchitecture\obj\Debug\net8.0\ref\LayeredArchitecture.dll
